@@ -1,4 +1,4 @@
-# 🏆 VOAI OLYMPIC AI COMPREHENSIVE TRAINING COURSE
+# VOAI Olympic AI Comprehensive Training Course
 ### Khóa Học Ôn Tập Toàn Diện Olympic AI & Applied Machine Learning Dành Cho Sinh Viên Năm Nhất
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 1. Tổng Quan Khóa Học (Course Overview)
+## 1. Tổng Quan Khóa Học (Course Overview)
 Khóa học **Ôn tập Olympic AI (VOAI)** là chương trình đào tạo chuyên sâu kéo dài **38 buổi học**, được đóng gói dưới dạng **38 Jupyter Notebooks (.ipynb) thực chiến độc lập**.
 
 Chương trình được thiết kế chuẩn mực theo triết lý:
@@ -20,21 +20,21 @@ Chương trình được thiết kế chuẩn mực theo triết lý:
 
 ---
 
-## 🎯 2. Đối Tượng Người Học (Who is this for?)
+## 2. Đối Tượng Người Học (Who is this for?)
 - **Sinh viên năm nhất ngành Trí tuệ Nhân tạo (AI), Khoa học Dữ liệu (Data Science), Khoa học Máy tính (CS)** muốn xây dựng nền tảng vững chắc và bứt phá ngay từ năm đầu đại học.
 - **Đội tuyển Ôn thi Olympic Tin học / Olympic AI (VOAI)** cần một giáo trình thực chiến, kỷ luật và bám sát tiêu chuẩn thi đấu quốc tế.
 - **Các bạn trẻ muốn xây dựng Portfolio AI thật** với mã nguồn GitHub chuẩn mực, ứng dụng Demo trực tiếp và báo cáo kỹ thuật khoa học.
 
 ---
 
-## 📋 3. Điều Kiện Tiên Quyết (Prerequisites)
+## 3. Điều Kiện Tiên Quyết (Prerequisites)
 - Tư duy logic toán học cơ bản ở bậc phổ thông (Đại số, Giải tích đạo hàm, Xác suất thống kê cơ bản).
 - Kỹ năng cài đặt và chạy môi trường Python / Jupyter Notebook cơ bản.
 - Tinh thần kỷ luật: Cam kết hoàn thành tuần tự 38 buổi học, không nhảy cóc giai đoạn.
 
 ---
 
-## 💻 4. Môi Trường Khuyến Nghị & Cài Đặt (Environment & Setup)
+## 4. Môi Trường Khuyến Nghị & Cài Đặt (Environment & Setup)
 
 ### Cấu hình Tối thiểu:
 - **Hệ điều hành:** Windows 10/11, macOS, hoặc Linux (Ubuntu 20.04+).
@@ -44,7 +44,7 @@ Chương trình được thiết kế chuẩn mực theo triết lý:
 ### Cài đặt trên máy cá nhân (Local Setup):
 ```bash
 # 1. Clone repository hoặc tải thư mục mã nguồn
-git clone https://github.com/username/voai-olympic-ai-course.git
+git clone https://github.com/nhdnhut/voai-olympic-ai-course.git
 cd voai-olympic-ai-course
 
 # 2. Tạo môi trường ảo Python
@@ -67,7 +67,7 @@ jupyter lab
 
 ---
 
-## 🗺️ 5. Lộ Trình 38 Buổi & Official Syllabus (Source of Truth)
+## ️ 5. Lộ Trình 38 Buổi & Official Syllabus (Source of Truth)
 
 Khóa học gồm đúng **38 buổi** phân bố trên **8 Modules (M0 → M7)**:
 
@@ -129,7 +129,7 @@ course/
 
 ---
 
-## 🏗️ 6. Cấu Trúc Sư Phạm Trong Từng Notebook (Pedagogical Design)
+## ️ 6. Cấu Trúc Sư Phạm Trong Từng Notebook (Pedagogical Design)
 Mỗi notebook trong 38 buổi đều được cấu trúc thống nhất và nghiêm ngặt qua 12 phần:
 1. **0. Session Header & Metadata:** Mục tiêu, Điều kiện tiên quyết, Thời lượng, Sản phẩm đầu ra, Mức độ liên quan thi đấu.
 2. **1. WHY?:** Tại sao kiến thức này tồn tại? Nằm ở đâu trong AI Pipeline? Liên quan VOAI thế nào?
@@ -146,20 +146,20 @@ Mỗi notebook trong 38 buổi đều được cấu trúc thống nhất và ng
 
 ---
 
-## 🏆 7. Hệ Thống Đánh Giá & Chứng Chỉ Cột Mốc (Certificates)
+## 7. Hệ Thống Đánh Giá & Chứng Chỉ Cột Mốc (Certificates)
 Sau khi hoàn thành bài kiểm tra cuối mỗi Module, học viên được cấp chứng chỉ cột mốc:
-- 🏅 **M0:** *Certificate of AI Orientation*
-- 🏅 **M1:** *Certificate of Python and Data Basics*
-- 🏅 **M2:** *Certificate of Machine Learning Basics*
-- 🏅 **M3:** *Certificate of Deep Learning Practice*
-- 🏅 **M4:** *Certificate of CV/NLP Applied AI*
-- 🏅 **M5:** *Certificate of AI Competition Practice*
-- 🏅 **M6:** *Certificate of AI-assisted Problem Solving*
-- 🎓 **M7:** **FINAL PROJECT CERTIFICATE — TỐT NGHIỆP TOÀN KHÓA OLYMPIC AI**
+- **M0:** *Certificate of AI Orientation*
+- **M1:** *Certificate of Python and Data Basics*
+- **M2:** *Certificate of Machine Learning Basics*
+- **M3:** *Certificate of Deep Learning Practice*
+- **M4:** *Certificate of CV/NLP Applied AI*
+- **M5:** *Certificate of AI Competition Practice*
+- **M6:** *Certificate of AI-assisted Problem Solving*
+- **M7:** **FINAL PROJECT CERTIFICATE — TỐT NGHIỆP TOÀN KHÓA OLYMPIC AI**
 
 ---
 
-## 📜 8. Giấy Phép & Bản Quyền (License)
+## 8. Giấy Phép & Bản Quyền (License)
 Toàn bộ khóa học được phát hành vì mục đích giáo dục cho sinh viên và các vận động viên Olympic AI. Mọi nội dung tuân thủ nghiêm ngặt chuẩn mực liêm chính học thuật.
 """
 
