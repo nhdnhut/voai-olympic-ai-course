@@ -1,11 +1,11 @@
 # VOAI Olympic AI Comprehensive Training Course
 ### Khóa Học Ôn Tập Toàn Diện Olympic AI & Applied Machine Learning Dành Cho Sinh Viên Năm Nhất
 
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626.svg)](https://jupyter.org/)
-[![Syllabus Locked](https://img.shields.io/badge/Syllabus-STRICTLY%20LOCKED-success.svg)](#official-syllabus)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=flat-square)](https://www.python.org/)
+[![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg?style=flat-square)](https://pytorch.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg?style=flat-square)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626.svg?style=flat-square)](https://jupyter.org/)
+[![Syllabus Locked](https://img.shields.io/badge/Syllabus-STRICTLY%20LOCKED-success.svg?style=flat-square)](#official-syllabus)
 
 ---
 
